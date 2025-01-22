@@ -16,7 +16,7 @@
 <!-- 技術スタック -->
 ## 🌱 スキル
 <!-- データサイエンス/AI関連の技術スタックを強調 -->
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,tensorflow,pytorch,docker,git,vscode,mysql,aws,gcp,kubernetes,linux,vim,bash,html,css,js" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,tensorflow,Django,pytorch,docker,git,vscode,mysql,gcp,linux,bash,html,css,js" />
 <br>
 
 <!-- 受賞歴 -->
