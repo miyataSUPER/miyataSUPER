@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=miyata-daisuke" />
+</div>
 
-<!--
-**miyataSUPER/miyataSUPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- プロフィール概要 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> はじめまして
 
-Here are some ideas to get you started:
+- 🎓 データサイエンスを学ぶ大学4回生
+- 💻 データサイエンスとAIに情熱を持つエンジニア
+- 🍜 ラーメン巡りと旅行が大好き
+- 📫 連絡先: 
+  - 📧 Email: miyata.aistart@gmail.com
+  - 📱 TEL: 080-2999-8873
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 技術スタック -->
+## 🌱 スキル
+<!-- データサイエンス/AI関連の技術スタックを強調 -->
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,tensorflow,pytorch,docker,git,vscode,mysql,aws,gcp,kubernetes,linux,vim,bash,html,css,js" />
+<br>
+
+<!-- 受賞歴 -->
+## 🏆 受賞歴
+- **Mercari AI/LLM Hackathon 優秀賞**  
+  Mercari, Inc., 2024
+- **アイフルデータハッカソン 審査員特別賞**  
+  AIFUL CORPORATION, 2024
