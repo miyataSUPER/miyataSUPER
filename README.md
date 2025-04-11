@@ -5,9 +5,7 @@
 <!-- プロフィール概要 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> はじめまして
 
-- 🎓 データサイエンスを学ぶ大学4回生
-- 💻 データサイエンスとAIに興味を持ちすぎたエンジニア
-- 🍜 ラーメン巡りと旅行が大好き
+- 🎓 データサイエンスを学ぶ大学院生
 - 📫 連絡先: 
   - 📧 Email: miyata.aistart@gmail.com
   
