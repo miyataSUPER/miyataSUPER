@@ -7,13 +7,11 @@
 - 🎓 データサイエンスを学ぶ大学院生
 - 📫 連絡先:
   - <a href="mailto:miyata.aistart@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[ご自身のLinkedIn URL]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/[ご自身のTwitterハンドル]"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <br>
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[ご自身のGitHubユーザー名]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ご自身のGitHubユーザー名]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[miyataSUPER]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[miyataSUPER]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 🌱 スキル
