@@ -2,26 +2,27 @@
   <img src="https://komarev.com/ghpvc/?username=miyata-daisuke" />
 </div>
 
-<!-- プロフィール概要 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> はじめまして
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome
 
-- 🎓 データサイエンスを学ぶ大学院生
+I am a graduate student specializing in **Data Science** and **Artificial Intelligence**, with a strong interest in machine learning, deep learning, and large language models.
 
+- 📫 Contact:  
+  <a href="mailto:miyata.aistart@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 📫 連絡先: 
-  - <a href="mailto:miyata.aistart@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+---
 
-<br>
+## 🌱 Technical Skills
 
-<!-- 技術スタック -->
-## 🌱 スキル
-<!-- データサイエンス/AI関連の技術スタックを強調 -->
+I have hands-on experience with a wide range of tools and frameworks relevant to data science, AI research, and software engineering:
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,tensorflow,pytorch,docker,git,vscode,mysql,gcp,linux,bash,html,css,js" />
-<br>
 
-<!-- 受賞歴 -->
-## 🏆 受賞歴
-- **Mercari AI/LLM Hackathon 優秀賞**  
-  Mercari, Inc., 2024
-- **アイフルデータハッカソン 審査員特別賞**  
-  AIFUL CORPORATION, 2024
+---
+
+## 🏆 Awards and Recognition
+
+- **Excellence Award** – *Mercari AI/LLM Hackathon*  
+  *Mercari, Inc., 2024*
+
+- **Special Jury Prize** – *AIFUL Data Hackathon*  
+  *AIFUL Corporation, 2024*
