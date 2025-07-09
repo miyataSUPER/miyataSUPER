@@ -15,7 +15,7 @@ I am a graduate student specializing in **Data Science** and **Artificial Intell
 
 I have hands-on experience with a wide range of tools and frameworks relevant to data science, AI research, and software engineering:
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,tensorflow,pytorch,docker,git,vscode,mysql,gcp,linux,bash,html,css,js" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,tensorflow,pytorch,docker,git,mysql,gcp,linux,bash" />
 
 ---
 
